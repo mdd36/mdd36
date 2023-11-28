@@ -3,7 +3,7 @@
 I'm Matthew Dickson, a software engineer living in Seattle, WA with my fiancée and two cats, Haskell and Ada. I'm a Rust enthusiast interested in low level development and performant software. 
 
 - 🔭 I’m currently working on [Gladius], my chess engine.
-- 🌱 I’m currently learning French and VIM keybindings. Not sure which is harder.
+- 🌱 I’m currently learning French and VIM keybindings.
 - 😄 Pronouns: he/him
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-dickson-2754b7147/)
