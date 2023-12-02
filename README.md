@@ -5,6 +5,7 @@ I'm Matthew Dickson, a software engineer living in Seattle, WA with my fiancée 
 - 🔭 I’m currently working on [Gladius], my chess engine.
 - 🌱 I’m currently learning French and VIM keybindings.
 - 😄 Pronouns: he/him
+- 🎄 [Advent of Code](https://adventofcode.com)-ing to learn some Go.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-dickson-2754b7147/)
 [![Website - Up](https://img.shields.io/badge/Website-Up-2ea44f?style=for-the-badge)](https://mattdickson.io)
